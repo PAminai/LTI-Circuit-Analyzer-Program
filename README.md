@@ -7,3 +7,12 @@ This Program contains more than 1000 lines of codes for simulation of different 
 * Impulse Response and plot it in time domain
 
 
+This program supports circuits with following elements:
+
+* Linear Resistors
+* Linear Capacitors and Inductors with initial condition
+* Coupling elements
+* Dependent and independent current and voltage sources
+* ac and DC inputs
+
+The output of program can optionally be determined by ueser in a format of .txt file which is the input of MATLAB codes. 
