@@ -15,4 +15,4 @@ This program supports circuits with following elements:
 * Dependent and independent current and voltage sources
 * ac and DC inputs
 
-The output of program can optionally be determined by ueser in the format of **Data.txt** file which is the input of MATLAB codes. This project is also includes a **Help (Persian).pdf** which releases How to input the data from a circuit to the program. 
+The output of program can optionally be specified by uesers in the format of **Data.txt** file which is the input of MATLAB codes. This project is also includes a **Help (Persian).pdf** which releases How to input the data from a circuit to the program. 
